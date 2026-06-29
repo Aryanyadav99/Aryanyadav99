@@ -43,3 +43,18 @@ Backend Engineer • Competitive Programmer
 </p>
 
 ---
+<!-- ========================= LEETCODE ========================= -->
+
+<h2 align="center">⚡ LeetCode</h2>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Ryn_Ydv8874/">
+
+<img src="https://leetcard.jacoblin.cool/Ryn_Ydv8874?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+
+</a>
+
+</p>
+
+---
