@@ -12,7 +12,7 @@ Backend Engineer • Competitive Programmer
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=9370DB&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Redis+%7C+PostgreSQL;800%2B+LeetCode+Problems;LeetCode+Knight;Learning+System+Design+%26+Cloud"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=9370DB&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+Redis+%7C+PostgreSQL;1000%2B+LeetCode+Problems;LeetCode+Knight;Learning+System+Design+%26+Cloud"/>
 
 </p>
 
