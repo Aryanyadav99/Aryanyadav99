@@ -37,9 +37,7 @@ Backend Engineer • Competitive Programmer
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanyadav99&theme=tokyonight"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanyadav99&theme=tokyonight&v=1" />
 </p>
 
 ---
